@@ -1,4 +1,4 @@
-# SecureCloud – DevSecOps CI/CD Project
+# SecureCloud – DevSecOps CI/CD Project (Shoaib Khan)
 
 This project demonstrates a secure DevSecOps CI/CD pipeline for a sample Node.js web application deployed on AWS using Kubernetes (EKS), Jenkins, Terraform, and various security tools.
 
